@@ -1,0 +1,13 @@
+
+RUN--
+npm install
+
+npm run build
+
+npm run serve
+
+CREATE--
+vue create my-vue-app
+cd my-vue-app
+
+npm install axios
